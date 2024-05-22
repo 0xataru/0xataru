@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">I'm Data & Software Engineer from Ukraine, proficient in Backend Development and Data Engineering, <br> holding a master's degree in International economics,  and possessing a background in Business Development. </h3>
+<h4 align="center">I'm Data & Software Engineer from Ukraine, proficient in Backend Development and Data Engineering, <br> holding a master's degree in International economics,  and possessing a background in Business Development. </h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -37,12 +37,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markraiter&layout=compact" alt="markraiter's most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markraiter&langs_count=8&hide_border=true&layout=compact&card_width=500" alt="Top Languages" />
 </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markraiter&show_icons=true&locale=en&count_private=true" alt="markraiter" /></p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markraiter" alt="markraiter's streak stats" />
-</p>
-
