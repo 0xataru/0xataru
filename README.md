@@ -1,4 +1,4 @@
-<h1 align="center">Greetings👋, My name is Mark</h1>
+<h1 align="center">Greetings👋, the name's Mark</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" width="400" height="300"/>
