@@ -1,5 +1,5 @@
 <h1 align="center">Greetings👋, the name's Mark</h1>
-<h3 align="center">I'm Software Engineer from Ukraine, proficient in Backend Development and Data Engineering, holding a master's degree in International economics,  and possessing a background in Business Development. </h3>
+<h3 align="center">I'm software engineer, proficient in Backend Development with Golang and Rust. Also I'm passioned movie watcher and chess player.  </h3>
 
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" width="400" height="300"/>
