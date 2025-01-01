@@ -1,4 +1,4 @@
-<h1 align="center">Greetings👋, the name's Mark</h1>
+<h1 align="center">Greetings👋</h1>
 <h3 align="center">I'm software engineer, proficient in Backend Development with Golang and Rust🦀. Also I'm passioned movie watcher and chess player.  </h3>
 
 <!-- <p align="center">
