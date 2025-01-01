@@ -19,7 +19,7 @@
 <!-- <a href="https://www.leetcode.com/eng1neeer_93" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a> -->
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<!--<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a> 
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/></a> 
