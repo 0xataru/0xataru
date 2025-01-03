@@ -15,9 +15,9 @@
 </div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alicalimli/alicalimli/main/tech.gif"/>
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://raw.githubusercontent.com/alicalimli/alicalimli/main/tech.gif"/> -->
+<!-- </p> -->
 
 <!-- GitHub stats -->
 <p align="center">
