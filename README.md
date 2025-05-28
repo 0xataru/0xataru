@@ -40,6 +40,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xataru&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph">
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xataru&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"> -->
 </p>
