@@ -1,5 +1,7 @@
 <!-- ![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=FFFFFF&random=false&width=435&lines=Haiiiii+I'm+0xataru.) -->
 
+<div align="center">
+
 ## 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/rust-%23C75600.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%237EE5F2.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -12,8 +14,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+</div>
 
 <div align="center">
+
 <pre>
  /$$   /$$  /$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$ /$$$$$$$   /$$$$$$ 
 | $$  | $$ /$$__  $$ /$$__  $$| $$  | $$|_  $$_/| $$__  $$ /$$__  $$
