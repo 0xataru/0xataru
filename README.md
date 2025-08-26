@@ -48,22 +48,16 @@
 ## 📊 Languages & Tools Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xataru&layout=compact&theme=graywhite&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&langs_count=8" alt="Top Languages">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xataru&theme=github_dark" alt="Profile Details">
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xataru&layout=compact&theme=graywhite&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&langs_count=8" alt="Top Languages">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xataru&theme=github_dark" alt="Repos per Language">
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xataru&theme=github_dark" alt="Most Commit Language">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xataru&theme=github_dark" alt="GitHub Stats">
 </p>
 
